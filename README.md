@@ -2,8 +2,6 @@
 <html>
   <head>
     LOGIN FORM
-
-    <br><br>
   </head>
   <body>
     <form id ="login-form">

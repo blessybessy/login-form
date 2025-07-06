@@ -1,9 +1,8 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-  <title>
     LOGIN FORM
-  </title>
+
     <br><br>
   </head>
   <body>
